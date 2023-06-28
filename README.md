@@ -2,10 +2,6 @@
 
 <br /> 
 
-### 👋🏻 Hi There
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonsu0-0%2Fhit-counter&count_bg=%234175DB&title_bg=%23A6A6A6&icon=&icon_color=%234B4A4A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 
 ### 💡공부하고 있어요 
 
