@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=007FFF&height=200&section=header&text=yeonsu's%20Dev%20log&fontSize=70)
-
-<br /> 
 
 
 ### 💡공부하고 있어요 
